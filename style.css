@@ -1,0 +1,19 @@
+body { 
+    font-family: Arial;
+ }
+
+ h1 {
+    text-align: center;
+ }
+
+ h2 {
+    text-align: center;
+ }
+
+ .container {
+    border: 2px solid black;
+ }
+
+ #p1 {
+    color: darkgreen;
+ }
